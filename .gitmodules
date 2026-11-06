@@ -1,0 +1,18 @@
+[submodule "a_maze_ing"]
+	path = a_maze_ing
+	url = git@github.com:dmsosa/a-maze-ing.git
+[submodule "ft_push_swap"]
+	path = ft_push_swap
+	url = git@github.com:dmsosa/ft_push_swap.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = git@github.com:dmsosa/42-printf.git
+[submodule "libft-42"]
+	path = libft-42
+	url = git@github.com:dmsosa/libft-42.git
+[submodule "libft42"]
+	path = libft42
+	url = git@github.com:dmsosa/libft-42.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:dmsosa/get-next-line-42-github.git

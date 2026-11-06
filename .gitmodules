@@ -16,3 +16,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = git@github.com:dmsosa/get-next-line-42-github.git
+[submodule "codexion"]
+	path = codexion
+	url = git@github.com:dmsosa/codexion.git
